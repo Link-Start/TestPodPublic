@@ -1,0 +1,6 @@
+framework module Pods_LSProjectToolUITests {
+  umbrella header "Pods-LSProjectToolUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
